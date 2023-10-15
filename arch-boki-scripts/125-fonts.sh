@@ -28,7 +28,7 @@ sudo pacman -S --needed ttf-hack-nerd --noconfirm
 sudo pacman -S --needed ttf-hactor --noconfirm
 sudo pacman -S --needed ttf-ibmplex-mono-nerd --noconfirm
 sudo pacman -S --needed ttf-inconsolata-go-nerd --noconfirm
-sudo pacman -S --needed ttf-inconsolata-lgs-nerd --noconfirm
+sudo pacman -S --needed ttf-inconsolata-lgc-nerd --noconfirm
 sudo pacman -S --needed ttf-inconsolata-nerd --noconfirm
 sudo pacman -S --needed ttf-iosevka-nerd --noconfirm
 sudo pacman -S --needed ttf-iosevkaterm-nerd --noconfirm
